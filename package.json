@@ -1,0 +1,16 @@
+{
+  "name": "test-browser-filesystem",
+  "version": "1.0.0",
+  "description": "Some tests and research on browser filesystem APIs",
+  "source": "public/index.html",
+  "scripts": {
+    "start": "parcel --no-cache --port 2345",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isirode",
+  "license": "AGPLv3",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "typescript": "^5.0.4"
+  }
+}
